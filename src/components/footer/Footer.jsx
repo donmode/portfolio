@@ -7,8 +7,8 @@ import { FaTwitter } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer id="footer">
-      <a href="https://oladipupoernest.com" className="footer__logo">
-        Donmode
+      <a href="https://oladiipoernest.com" className="footer__logo">
+        Oladiipo Ernest
       </a>
       <ul className="permalinks">
         <li>
