@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: GRADING,
-    title: "TThe Grading App",
+    title: "The Grading App",
     github: "https://github.com/donmode",
     demo: "https://oladiipoernest.com",
   },
