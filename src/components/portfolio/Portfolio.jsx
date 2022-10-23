@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import LADMUS from "../../assets/ladmus.png";
 import PMS from "../../assets/pms.png";
-import PETUNIA from "../../assets/petunia.png";
+import BAME from "../../assets/petunia.png";
 import PDFFLIP from "../../assets/pdfflip.jpeg";
 import GRADING from "../../assets/Grading.png";
 import QUORALEN from "../../assets/quoralen.png";
@@ -24,10 +24,10 @@ const data = [
   },
   {
     id: 3,
-    image: PETUNIA,
-    title: "Petunia BAME Website",
+    image: BAME,
+    title: "BAME Website",
     github: "https://github.com/donmode",
-    demo: "https://petuniathomas.com",
+    demo: "https://oladiipoernest.com",
   },
   {
     id: 4,

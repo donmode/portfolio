@@ -41,7 +41,15 @@ const About = () => {
             <br />
             <small>
               🎈🎈🎈 Fun Fact: I enjoy writing poetry, and I have a published
-              collection of poems written in my mother's tongue
+              collection of poems written in{" "}
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://okadabooks.com/book/about/detail/39655"
+                title="Link to Iwe-Kobo by Osanyinlokun Oladiipo Ernest"
+              >
+                my mother's tongue (Yoruba Language)
+              </a>
             </small>
           </p>
           <a href="#contact" className="btn btn-primary">
