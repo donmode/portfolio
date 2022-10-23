@@ -63,7 +63,7 @@ const Contact = () => {
             <a
               target="blank"
               rel="noreferer"
-              href="https://api.whatsapp.com/send?phone=2348161888116&text=Hello"
+              href="https://api.whatsapp.com/send?phone=2348161888116&text=Hello%20Ernest%2C%20I%20am%20contacting%20you%20from%20your%20website.%20My%20name%20is%20"
             >
               Chat me up
             </a>
